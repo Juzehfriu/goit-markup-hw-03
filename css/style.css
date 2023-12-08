@@ -127,6 +127,7 @@ link {
 /* Hero Section Styles */
 .hero-section {
   background-color: var(--grey);
+  padding: 188px 0;
 }
 .hero-header {
   font-size: 56px;
@@ -134,6 +135,7 @@ link {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--white);
+  max-width: 496px;
 }
 .order-service-button {
   background-color: var(--iris);
@@ -144,6 +146,10 @@ link {
   letter-spacing: 0.04em;
   color: var(--white);
   cursor: pointer;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 .order-service-button:hover,
 :focus {
