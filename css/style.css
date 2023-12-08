@@ -61,6 +61,7 @@ a {
 }
 link {
   text-decoration: none;
+  padding: 24px 0;
 }
 
 .logo span {
