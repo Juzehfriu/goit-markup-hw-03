@@ -42,7 +42,6 @@ a {
 .navigation {
   display: flex;
   align-items: center;
-  padding: 24px 0;
 }
 
 .logo {
@@ -55,11 +54,9 @@ a {
   text-transform: uppercase;
   color: var(--iris);
   margin-right: 76px;
-  padding: 24px 0;
 }
 link {
   text-decoration: none;
-  padding: 24px 0;
 }
 
 .logo span {
@@ -71,7 +68,6 @@ link {
   display: flex;
   gap: 40px;
   margin-right: 40px;
-  padding: 24px 0;
 }
 
 .nav-links li {
@@ -82,7 +78,6 @@ link {
   letter-spacing: 0.02em;
   color: var(--grey);
   margin-right: 0;
-  padding: 24px 0;
 }
 
 .nav-link {
