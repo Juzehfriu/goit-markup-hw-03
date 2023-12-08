@@ -57,7 +57,6 @@ a {
 }
 link {
   text-decoration: none;
-  padding: 24px 0;
 }
 
 .logo span {
@@ -84,6 +83,7 @@ link {
 .nav-link {
   text-decoration: none;
   color: var(--grey);
+  padding: 24px 0;
 }
 
 .nav-link:hover {
