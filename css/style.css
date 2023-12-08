@@ -58,6 +58,7 @@ a {
   text-transform: uppercase;
   color: var(--iris);
   margin-right: 76px;
+  padding: 24px 0;
 }
 link {
   text-decoration: none;
