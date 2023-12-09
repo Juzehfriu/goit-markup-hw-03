@@ -167,6 +167,7 @@ link {
   letter-spacing: 0.02em;
   color: var(--grey);
   margin-bottom: 8px;
+  width: calc((100%-3 * 24px) / 4);
 }
 .visually-hidden {
   position: absolute;
@@ -185,9 +186,7 @@ link {
   display: flex;
   margin-right: 24px;
 }
-.first-section-lists .list {
-  width: calc((100%-3 * 24px) / 4);
-}
+
 .first-section-lists .technologies {
   margin-right: 0;
 }
