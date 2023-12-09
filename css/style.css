@@ -180,6 +180,7 @@ link {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 .first-section-text {
   font-size: 16px;
   line-height: 1.5;
