@@ -26,6 +26,10 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: block;
+}
+
 /* Header Styles */
 .header {
   background-color: var(--white);
