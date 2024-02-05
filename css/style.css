@@ -174,7 +174,7 @@ link {
   width: calc((100%-3 * 24px) / 4);
 }
 
-.first-section-header h1 {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
